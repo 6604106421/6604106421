@@ -55,7 +55,6 @@
 - Learning SQL and database concepts
 - Developing problem-solving skills through programming exercises
 
----
 ## 📈 GitHub Stats
 
 <div align="center">
