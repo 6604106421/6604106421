@@ -40,7 +40,6 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **Physical Therapy Center Database System** | Oracle SQL · MySQL | Practiced analyzing system requirements, creating ER Diagram, and designing database tables for a healthcare service system | Coming Soon |
 | **Web Development Projects** | HTML · CSS · React · Tailwind CSS | Built user interfaces and practiced reusable components through coursework | Coming Soon |
 | **Java Programming Projects** | Java | Practiced Object-Oriented Programming (OOP), Exception Handling, and File Handling | Coming Soon |
 
