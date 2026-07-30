@@ -59,13 +59,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6604106421&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6604106421&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6604106421&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6604106421&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🤝 Let’s Connect
 
