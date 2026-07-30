@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>IT Student • Student Developer</strong><br/>
-  <em>“Learning, building and improving through university projects.”</em>
+  <em>“Learning. Building. Improving.”</em>
 </p>
 
 ---
