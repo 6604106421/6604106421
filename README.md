@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="Presentation.jpg" alt="header image" />
+  <img src="banner.jpg" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Sangjan 👋🏻</h1>
