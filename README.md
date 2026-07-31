@@ -47,10 +47,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sangjan-port&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sangjan-port&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sangjan-port&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sangjan-port&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
-
 ---
 
 ## 🤝 Let's Connect
