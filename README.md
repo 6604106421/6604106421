@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 Academic Projects
+## 📌 Featured Projects
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
