@@ -45,28 +45,16 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **React Noodle Shop Website** | React · HTML · CSS · JavaScript | Developed a simple responsive restaurant website using React components and React Router. | Coming Soon |
-| **Java Programming Assignments** | Java | Applied Object-Oriented Programming concepts through university coursework. | Coming Soon |
-| **Restaurant Management Database** | Oracle SQL · MySQL | Designed ER Diagrams and relational database structures for a restaurant management system. | Coming Soon |
-
----
-
-## ✍🏻 Learning Journey
-
-Currently improving my programming skills through university coursework and personal practice.
-
-- Building responsive web pages with React
-- Learning JavaScript and React fundamentals
-- Practicing Java programming
-- Designing relational databases with SQL
+| **React Noodle Shop Website** | React · HTML · CSS · JavaScript | Developed a simple responsive restaurant website using React components and React Router. | Repo |
+| **Java Programming Assignments** | Java | Applied Object-Oriented Programming concepts through university coursework. | Repo |
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=6604106421&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=6604106421&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sangjan-port&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sangjan-port&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
 ---
