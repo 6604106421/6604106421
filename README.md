@@ -1,14 +1,7 @@
 <!-- Banner / Cover -->
-<p align="center">
-  <img src="banner.jpg" alt="header image" />
-</p>
-
-<h1 align="center">Hi, I'm Sangjan 👋🏻</h1>
-
-<p align="center">
-  <strong>Information Technology Student</strong><br/>
-  <em>Learning by Building.</em>
-</p>
+<p align="center"> <img src="banner.jpg" alt="header image" /> </p>
+<h1 align="center">Hi, I’m Sangjan 👋🏻</h1> 
+<p align="center"> <strong>IT Student • Student Developer</strong><br/> <em>“Learning. Building. Improving.”</em> </p>
 
 ---
 
