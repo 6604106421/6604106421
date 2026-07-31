@@ -1,9 +1,7 @@
 <!-- Banner / Cover -->
-<p align="center"> <img src="banner.jpg" alt="header image" /> </p>
-<h1 align="center">Hi, I’m Sangjan 👋🏻</h1> 
-<p align="center"> <strong>IT Student • Student Developer</strong><br/> <em>“Learning. Building. Improving.”</em> </p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=B098B9,899AB5&height=250&section=header&text=Hi,%20I'm%20Sangjan!%20👋&fontSize=50&fontColor=66508A&desc=Information%20Technology%20Student%20•%20Student%20Developer&descSize=20&descColor=66508A" alt="header image" />
+</p>
 
 ## 🚀 About Me
 
