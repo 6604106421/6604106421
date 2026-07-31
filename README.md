@@ -39,10 +39,11 @@
 | **Automated Web Testing** | — | Robot Framework · Selenium | Wrote automated UI tests for web apps. The script acts like a real user (clicking and typing) and uses test data from Excel to fill out forms automatically. | [Repo](#) |
 
 ---
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sangjan-port&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sangjan-port&layout=compact&hide_border=true&theme=tokyonight&v=1" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sangjan-port&layout=compact&hide_border=true&theme=tokyonight&v=2" />
 </div>
 ---
 
