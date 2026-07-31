@@ -37,9 +37,9 @@
 
 ## 📌 Featured Projects
 
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **Tour Booking Website** | HTML · CSS · JS · Node.js | Developed a responsive web application for booking travel tours. Users can explore various tour packages, read details, and submit booking forms. I also created a basic local backend server using Node.js to manage the application's data. | [Repo](#) |
+| Project | Preview | Tech | Highlights | Links |
+|---------|---------|------|-----------|-------|
+| **Tour Booking Website** | <img src="tour-preview.jpg" width="250" alt="Tour Booking Preview"> | HTML · CSS · JS · Node.js | Developed a responsive web application for booking travel tours. Users can explore various tour packages, read details, and submit booking forms. I also created a basic local backend server using Node.js to manage the application's data. | [Repo](#) |
 | **Automated Web Testing** | Robot Framework · Selenium | Created an automated testing project to check if web applications function properly. I used Robot Framework and Selenium to simulate user actions like clicking and typing. The project also reads test data from Excel files to automatically test web forms. | [Repo](#) |
 
 ---
