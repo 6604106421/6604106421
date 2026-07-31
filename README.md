@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=56CCF2,2F80ED&height=250&section=header&text=Hi,%20I'm%20Sangjan!%20👋&fontSize=50&fontColor=FFFFFF&textAlignY=38&desc=Information%20Technology%20Student%20•%20Student%20Developer&descSize=20&descColor=FFFFFF&descAlignY=72" alt="header image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89CFF0,D4F1F4&height=250&section=header&text=Hi,%20I'm%20Sangjan!%20👋&fontSize=50&fontColor=0D47A1&textAlignY=45&desc=Information%20Technology%20Student%20•%20Student%20Developer&descSize=20&descColor=0D47A1&descAlignY=62" alt="header image" />
 </p>
 
 ## 🚀 About Me
