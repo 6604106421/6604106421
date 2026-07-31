@@ -7,8 +7,6 @@
 
 ## 🚀 About Me
 
-🎓 IT student at Maejo University
-
 🌱 Learning React, JavaScript, Java, Oracle SQL, and Software Testing
 
 ⚛️ Interested in Frontend Development and Software Testing
